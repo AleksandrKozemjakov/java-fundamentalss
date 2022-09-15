@@ -136,9 +136,17 @@ public class Operator {
         System.out.println(ternaryCheck);
 
         int check2 = !lessCheck ? 9 : 10;
+
         // number comparison
         boolean checkNumber = 9 == 9.0; // int = float
         System.out.println(checkNumber);
+
+        // mostly used operators
+        // ++ , --
+        // +
+        // == , !=
+        // &&, ||
+        // ?, :
 
 
 
